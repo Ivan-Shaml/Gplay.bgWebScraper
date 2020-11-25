@@ -7,4 +7,4 @@ It goes through a category of bulgarian PC hardware site [Gplay.bg](https://gpla
 
 ## Demo Video
 
-[![Video](https://i.imgur.com/t1ZNFib.png)](https://streamable.com/y3d4il)
+[![Video](https://i.imgur.com/t1ZNFib.png)](https://vimeo.com/483548810)
